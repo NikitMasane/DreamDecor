@@ -1,0 +1,67 @@
+.bg-grey {
+    background-color: #1c1919;
+}
+
+@media screen and (max-width: 768px) {
+    .col-sm-4 {
+        text-align: center;
+        margin: 25px 0;
+    }
+}
+
+.new {
+    margin-bottom: 5%;
+    border-radius: 2%;
+}
+
+.v {
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: 550%;
+    color: white;
+    word-spacing: 3rem;
+}
+
+.kitchenimg img{
+   height: 700px;
+    width: 1515px;
+}
+
+.livingimg img{
+width: 1519px;
+    height: 800px;
+}
+
+.bathimg img{
+    width: 1515px;
+    height: 700px;
+    }
+
+.row img {
+    width: 410px;
+    height: 300px;
+
+}
+
+#header {
+    text-decoration: none;
+    /* position: sticky; */
+    top: 0%;
+}
+
+.navbar a,
+.navbar a:focus {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0 10px 30px;
+    color: #fff;
+    white-space: nowrap;
+    transition: 0.3s;
+    font-size: 2.0em;
+    text-decoration: none;
+}
+
+.map-fluid img{
+     height: 50%;
+     width: 40%;
+}
