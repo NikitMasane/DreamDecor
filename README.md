@@ -27,7 +27,7 @@ The project is developed using the following technologies:
 ## Getting Started
 To run the project locally on your machine, follow these steps:
 Clone the repository to your local machine using the following command:
-git clone https://github.com/your-username/home-decor-booking.git
+git clone https://github.com/NikitMasane/DreamDecor.git
 Navigate to the project directory
 To use the Home Decor website and make a booking, follow these steps:
 Open the project in your preferred web browser.
